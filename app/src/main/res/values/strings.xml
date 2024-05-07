@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="refresh">REFRESH</string>
+    <string name="search">search</string>
+    <string name="category">Category: %1$s</string>
+    <string name="stock">%1$s left</string>
+    <string name="brand">Brand: %1$s</string>
+    <string name="price">%1$s $</string>
+</resources>

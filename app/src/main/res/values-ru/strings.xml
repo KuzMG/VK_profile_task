@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="search">поиск</string>
+    <string name="category">Категория: %1$s</string>
+    <string name="stock">Осталось %1$s</string>
+    <string name="brand">Бренд: %1$s</string>
+    <string name="app_name">My Application</string>
+    <string name="refresh">ОБНОВИТЬ</string>
+    <string name="price">%1$s $</string>
+</resources>
